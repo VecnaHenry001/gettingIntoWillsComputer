@@ -1,0 +1,3 @@
+# gettingIntoWillsComputer
+I used this version of the Mimikatz malware to dump Will's credentials and get into his accounts. This gave me complete access over his accounts and he'll never find out
+about this. I have all of the information on their plan now hahaha. There is no point in running...
